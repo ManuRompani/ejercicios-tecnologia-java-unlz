@@ -30,5 +30,10 @@ public class ComunicadorConsola implements IComunicador{
 		this.enviar("---------------------------------");
 	}
 
+	@Override
+	public void enviarNum(int numero) {
+		System.out.println(numero);
+	}
+
 
 }
