@@ -1,0 +1,11 @@
+# Ignorar binarios y compilados
+bin/
+*.class
+
+# Ignorar configuración de Eclipse específica de esta carpeta
+.project
+.classpath
+.settings/
+
+# Ignorar la carpeta de metadatos que se creó por error
+.metadata/

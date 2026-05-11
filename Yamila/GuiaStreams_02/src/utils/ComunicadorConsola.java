@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 import interfaces.IComunicador;
-import models.Persona;
+
 
 public class ComunicadorConsola implements IComunicador{
 	
